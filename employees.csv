@@ -1,0 +1,1001 @@
+EmployeeID,FullName,Department,Location,IsRemote
+1,Employee_1,Legal,Southampton,False
+2,Employee_2,Sales,Isle of Wight,False
+3,Employee_3,Marketing,Southampton,False
+4,Employee_4,Marketing,Isle of Wight,True
+5,Employee_5,IT,London,True
+6,Employee_6,Finance,Remote,True
+7,Employee_7,Finance,London,True
+8,Employee_8,Operations,London,True
+9,Employee_9,Sales,Remote,True
+10,Employee_10,IT,Isle of Wight,True
+11,Employee_11,Legal,Remote,True
+12,Employee_12,Sales,Portsmouth,False
+13,Employee_13,Operations,Portsmouth,False
+14,Employee_14,Finance,London,True
+15,Employee_15,Marketing,Southampton,True
+16,Employee_16,Legal,London,False
+17,Employee_17,Operations,Isle of Wight,True
+18,Employee_18,Finance,Portsmouth,False
+19,Employee_19,Operations,Southampton,True
+20,Employee_20,HR,Isle of Wight,True
+21,Employee_21,Finance,Remote,False
+22,Employee_22,Sales,London,False
+23,Employee_23,Marketing,Remote,False
+24,Employee_24,Finance,Isle of Wight,False
+25,Employee_25,HR,Southampton,True
+26,Employee_26,Sales,London,False
+27,Employee_27,HR,Remote,False
+28,Employee_28,Sales,Portsmouth,True
+29,Employee_29,IT,Portsmouth,False
+30,Employee_30,Marketing,London,True
+31,Employee_31,HR,Southampton,True
+32,Employee_32,Operations,Southampton,False
+33,Employee_33,Legal,Isle of Wight,False
+34,Employee_34,Marketing,Remote,False
+35,Employee_35,Legal,Isle of Wight,False
+36,Employee_36,Sales,Isle of Wight,True
+37,Employee_37,Operations,Southampton,False
+38,Employee_38,IT,Portsmouth,False
+39,Employee_39,Operations,Remote,True
+40,Employee_40,Operations,Remote,False
+41,Employee_41,IT,Remote,True
+42,Employee_42,Sales,Portsmouth,False
+43,Employee_43,Marketing,Portsmouth,True
+44,Employee_44,Finance,Southampton,False
+45,Employee_45,Finance,Remote,True
+46,Employee_46,Operations,Remote,False
+47,Employee_47,Finance,Southampton,False
+48,Employee_48,IT,Remote,False
+49,Employee_49,Sales,London,True
+50,Employee_50,Legal,Remote,True
+51,Employee_51,Finance,Isle of Wight,False
+52,Employee_52,Sales,Isle of Wight,True
+53,Employee_53,Sales,Remote,False
+54,Employee_54,HR,Southampton,False
+55,Employee_55,IT,Portsmouth,False
+56,Employee_56,Legal,Remote,False
+57,Employee_57,HR,Portsmouth,False
+58,Employee_58,Sales,Isle of Wight,True
+59,Employee_59,Marketing,Southampton,True
+60,Employee_60,Legal,London,True
+61,Employee_61,Marketing,Portsmouth,True
+62,Employee_62,Legal,Isle of Wight,False
+63,Employee_63,Marketing,London,False
+64,Employee_64,IT,Portsmouth,False
+65,Employee_65,Marketing,Remote,False
+66,Employee_66,Operations,Portsmouth,False
+67,Employee_67,Operations,Southampton,False
+68,Employee_68,Marketing,Remote,False
+69,Employee_69,Finance,London,True
+70,Employee_70,Operations,Remote,False
+71,Employee_71,Finance,Remote,True
+72,Employee_72,Marketing,Isle of Wight,True
+73,Employee_73,Legal,London,True
+74,Employee_74,Legal,Isle of Wight,False
+75,Employee_75,Marketing,Southampton,False
+76,Employee_76,Legal,Southampton,False
+77,Employee_77,IT,London,True
+78,Employee_78,IT,Southampton,False
+79,Employee_79,HR,London,True
+80,Employee_80,Operations,Remote,False
+81,Employee_81,IT,Southampton,True
+82,Employee_82,IT,Isle of Wight,False
+83,Employee_83,Sales,Portsmouth,True
+84,Employee_84,Marketing,Isle of Wight,True
+85,Employee_85,Sales,Remote,True
+86,Employee_86,Finance,Portsmouth,True
+87,Employee_87,HR,London,False
+88,Employee_88,Sales,Isle of Wight,False
+89,Employee_89,Operations,London,False
+90,Employee_90,Sales,Isle of Wight,True
+91,Employee_91,HR,Isle of Wight,False
+92,Employee_92,IT,Southampton,True
+93,Employee_93,Marketing,Remote,False
+94,Employee_94,Operations,Portsmouth,False
+95,Employee_95,Sales,Portsmouth,True
+96,Employee_96,Legal,London,False
+97,Employee_97,IT,Portsmouth,True
+98,Employee_98,Finance,Isle of Wight,True
+99,Employee_99,Marketing,Isle of Wight,False
+100,Employee_100,Legal,Isle of Wight,False
+101,Employee_101,HR,Remote,True
+102,Employee_102,HR,Southampton,True
+103,Employee_103,Operations,Portsmouth,False
+104,Employee_104,Operations,Southampton,False
+105,Employee_105,Legal,London,False
+106,Employee_106,Operations,Portsmouth,False
+107,Employee_107,HR,Southampton,False
+108,Employee_108,Finance,London,False
+109,Employee_109,HR,Portsmouth,False
+110,Employee_110,Legal,Portsmouth,True
+111,Employee_111,Finance,Isle of Wight,False
+112,Employee_112,Sales,Southampton,True
+113,Employee_113,Operations,Portsmouth,False
+114,Employee_114,Legal,Southampton,True
+115,Employee_115,HR,Portsmouth,False
+116,Employee_116,HR,London,False
+117,Employee_117,Marketing,Portsmouth,False
+118,Employee_118,IT,Isle of Wight,False
+119,Employee_119,Finance,Isle of Wight,True
+120,Employee_120,Operations,Southampton,True
+121,Employee_121,Legal,Portsmouth,True
+122,Employee_122,Legal,Isle of Wight,False
+123,Employee_123,Legal,London,False
+124,Employee_124,Legal,Southampton,False
+125,Employee_125,IT,Isle of Wight,False
+126,Employee_126,Marketing,London,False
+127,Employee_127,Sales,Remote,False
+128,Employee_128,Finance,Portsmouth,False
+129,Employee_129,HR,London,False
+130,Employee_130,Legal,Portsmouth,False
+131,Employee_131,Marketing,Remote,False
+132,Employee_132,Legal,London,True
+133,Employee_133,Marketing,London,False
+134,Employee_134,Operations,Isle of Wight,True
+135,Employee_135,Marketing,London,False
+136,Employee_136,Sales,Portsmouth,False
+137,Employee_137,Finance,London,False
+138,Employee_138,Finance,Isle of Wight,False
+139,Employee_139,Operations,London,True
+140,Employee_140,Finance,Remote,True
+141,Employee_141,Legal,Southampton,False
+142,Employee_142,Finance,Remote,False
+143,Employee_143,Legal,Isle of Wight,True
+144,Employee_144,HR,Portsmouth,False
+145,Employee_145,Operations,Southampton,False
+146,Employee_146,Sales,Isle of Wight,False
+147,Employee_147,Finance,Southampton,False
+148,Employee_148,HR,Remote,False
+149,Employee_149,Operations,London,False
+150,Employee_150,Sales,Isle of Wight,False
+151,Employee_151,Operations,Remote,False
+152,Employee_152,Finance,Southampton,True
+153,Employee_153,Sales,Remote,True
+154,Employee_154,HR,Remote,False
+155,Employee_155,Marketing,Isle of Wight,False
+156,Employee_156,Finance,Portsmouth,False
+157,Employee_157,Marketing,Southampton,True
+158,Employee_158,Operations,Southampton,False
+159,Employee_159,Sales,London,True
+160,Employee_160,Legal,Portsmouth,False
+161,Employee_161,Finance,Isle of Wight,False
+162,Employee_162,HR,Isle of Wight,False
+163,Employee_163,IT,Remote,False
+164,Employee_164,HR,Southampton,True
+165,Employee_165,Legal,Isle of Wight,False
+166,Employee_166,Finance,Southampton,True
+167,Employee_167,HR,Isle of Wight,False
+168,Employee_168,Marketing,London,False
+169,Employee_169,IT,Remote,False
+170,Employee_170,Sales,Southampton,False
+171,Employee_171,Marketing,Remote,False
+172,Employee_172,Marketing,Isle of Wight,False
+173,Employee_173,Marketing,Southampton,True
+174,Employee_174,HR,Isle of Wight,True
+175,Employee_175,Marketing,London,True
+176,Employee_176,Operations,Portsmouth,True
+177,Employee_177,Legal,Portsmouth,False
+178,Employee_178,IT,London,True
+179,Employee_179,IT,London,False
+180,Employee_180,Sales,Portsmouth,True
+181,Employee_181,Sales,Isle of Wight,False
+182,Employee_182,Marketing,Remote,True
+183,Employee_183,Legal,Isle of Wight,True
+184,Employee_184,IT,Southampton,False
+185,Employee_185,IT,Portsmouth,True
+186,Employee_186,HR,Southampton,False
+187,Employee_187,IT,London,True
+188,Employee_188,HR,Remote,True
+189,Employee_189,HR,Southampton,False
+190,Employee_190,Legal,London,True
+191,Employee_191,Marketing,London,True
+192,Employee_192,IT,Remote,True
+193,Employee_193,Finance,Portsmouth,True
+194,Employee_194,Marketing,Portsmouth,False
+195,Employee_195,IT,London,False
+196,Employee_196,HR,Isle of Wight,True
+197,Employee_197,IT,Southampton,True
+198,Employee_198,Legal,Isle of Wight,True
+199,Employee_199,Finance,Remote,True
+200,Employee_200,Legal,Southampton,True
+201,Employee_201,Finance,Portsmouth,False
+202,Employee_202,Finance,Remote,True
+203,Employee_203,Operations,London,False
+204,Employee_204,IT,Southampton,False
+205,Employee_205,IT,Isle of Wight,False
+206,Employee_206,Operations,London,False
+207,Employee_207,Sales,Southampton,True
+208,Employee_208,Legal,Isle of Wight,False
+209,Employee_209,HR,London,False
+210,Employee_210,Sales,Southampton,False
+211,Employee_211,Finance,Portsmouth,True
+212,Employee_212,HR,Isle of Wight,False
+213,Employee_213,Legal,Isle of Wight,False
+214,Employee_214,IT,Remote,False
+215,Employee_215,Sales,Remote,True
+216,Employee_216,IT,Portsmouth,False
+217,Employee_217,Sales,Portsmouth,True
+218,Employee_218,Operations,Southampton,True
+219,Employee_219,Operations,Southampton,True
+220,Employee_220,Operations,Southampton,False
+221,Employee_221,HR,Portsmouth,True
+222,Employee_222,Marketing,London,False
+223,Employee_223,HR,Remote,True
+224,Employee_224,Operations,London,False
+225,Employee_225,Sales,Portsmouth,False
+226,Employee_226,Sales,Portsmouth,False
+227,Employee_227,HR,Isle of Wight,False
+228,Employee_228,Marketing,Southampton,False
+229,Employee_229,Marketing,Isle of Wight,False
+230,Employee_230,HR,Isle of Wight,True
+231,Employee_231,Marketing,Remote,False
+232,Employee_232,Finance,Portsmouth,True
+233,Employee_233,Legal,Portsmouth,False
+234,Employee_234,Operations,Isle of Wight,False
+235,Employee_235,IT,Remote,True
+236,Employee_236,Sales,London,False
+237,Employee_237,Finance,Southampton,False
+238,Employee_238,Legal,Portsmouth,True
+239,Employee_239,Finance,Remote,False
+240,Employee_240,Marketing,London,False
+241,Employee_241,Operations,Portsmouth,False
+242,Employee_242,IT,Southampton,False
+243,Employee_243,Sales,Southampton,False
+244,Employee_244,Legal,Remote,False
+245,Employee_245,Sales,Southampton,False
+246,Employee_246,HR,London,False
+247,Employee_247,Legal,Isle of Wight,True
+248,Employee_248,Legal,Isle of Wight,True
+249,Employee_249,Finance,Portsmouth,False
+250,Employee_250,Sales,Portsmouth,True
+251,Employee_251,HR,Isle of Wight,True
+252,Employee_252,HR,Portsmouth,False
+253,Employee_253,Marketing,Remote,True
+254,Employee_254,Finance,Isle of Wight,True
+255,Employee_255,Operations,Isle of Wight,False
+256,Employee_256,Finance,Southampton,False
+257,Employee_257,Sales,Portsmouth,True
+258,Employee_258,Marketing,Remote,True
+259,Employee_259,Sales,Remote,True
+260,Employee_260,Sales,Isle of Wight,True
+261,Employee_261,Sales,Southampton,False
+262,Employee_262,IT,Southampton,False
+263,Employee_263,Marketing,Remote,False
+264,Employee_264,Finance,London,True
+265,Employee_265,IT,London,True
+266,Employee_266,Operations,Southampton,False
+267,Employee_267,Sales,Isle of Wight,False
+268,Employee_268,HR,Portsmouth,True
+269,Employee_269,Operations,Isle of Wight,False
+270,Employee_270,HR,Remote,False
+271,Employee_271,Finance,Remote,True
+272,Employee_272,Operations,Portsmouth,True
+273,Employee_273,Legal,Isle of Wight,True
+274,Employee_274,Marketing,Isle of Wight,True
+275,Employee_275,Operations,Southampton,False
+276,Employee_276,Marketing,Southampton,False
+277,Employee_277,Operations,Remote,False
+278,Employee_278,Marketing,Southampton,True
+279,Employee_279,Operations,Isle of Wight,False
+280,Employee_280,Sales,Isle of Wight,True
+281,Employee_281,Legal,London,False
+282,Employee_282,Marketing,Portsmouth,True
+283,Employee_283,Legal,Remote,False
+284,Employee_284,Finance,Isle of Wight,True
+285,Employee_285,HR,Isle of Wight,False
+286,Employee_286,Legal,Isle of Wight,False
+287,Employee_287,Finance,Isle of Wight,False
+288,Employee_288,HR,London,True
+289,Employee_289,Operations,Isle of Wight,False
+290,Employee_290,HR,Remote,True
+291,Employee_291,Finance,Remote,True
+292,Employee_292,IT,Southampton,False
+293,Employee_293,Marketing,Isle of Wight,True
+294,Employee_294,Legal,Portsmouth,True
+295,Employee_295,Legal,London,True
+296,Employee_296,IT,Isle of Wight,False
+297,Employee_297,Operations,Southampton,True
+298,Employee_298,Operations,Isle of Wight,False
+299,Employee_299,Finance,Remote,False
+300,Employee_300,Legal,Isle of Wight,False
+301,Employee_301,Finance,Southampton,False
+302,Employee_302,Legal,Isle of Wight,False
+303,Employee_303,Sales,Remote,False
+304,Employee_304,Sales,Remote,False
+305,Employee_305,IT,London,True
+306,Employee_306,Finance,London,False
+307,Employee_307,Operations,Remote,False
+308,Employee_308,HR,Remote,False
+309,Employee_309,Operations,Remote,False
+310,Employee_310,Finance,Southampton,False
+311,Employee_311,Sales,Isle of Wight,False
+312,Employee_312,Finance,London,False
+313,Employee_313,Sales,Southampton,False
+314,Employee_314,HR,Portsmouth,True
+315,Employee_315,Legal,Remote,True
+316,Employee_316,HR,Portsmouth,False
+317,Employee_317,Finance,Portsmouth,True
+318,Employee_318,HR,London,False
+319,Employee_319,Marketing,Portsmouth,True
+320,Employee_320,Legal,Remote,True
+321,Employee_321,Legal,Remote,True
+322,Employee_322,IT,Portsmouth,False
+323,Employee_323,Marketing,Portsmouth,True
+324,Employee_324,IT,Southampton,False
+325,Employee_325,Legal,Isle of Wight,True
+326,Employee_326,HR,Isle of Wight,False
+327,Employee_327,Marketing,Isle of Wight,True
+328,Employee_328,HR,Remote,True
+329,Employee_329,Operations,Remote,False
+330,Employee_330,Legal,Isle of Wight,True
+331,Employee_331,IT,Remote,False
+332,Employee_332,IT,London,True
+333,Employee_333,HR,Southampton,True
+334,Employee_334,Finance,Portsmouth,False
+335,Employee_335,IT,Isle of Wight,True
+336,Employee_336,Finance,Portsmouth,False
+337,Employee_337,Legal,Portsmouth,False
+338,Employee_338,Finance,London,True
+339,Employee_339,HR,Remote,False
+340,Employee_340,Finance,London,False
+341,Employee_341,IT,Portsmouth,False
+342,Employee_342,IT,London,True
+343,Employee_343,IT,London,False
+344,Employee_344,HR,London,True
+345,Employee_345,Operations,London,False
+346,Employee_346,Marketing,Remote,False
+347,Employee_347,HR,London,True
+348,Employee_348,IT,Remote,False
+349,Employee_349,Operations,Portsmouth,True
+350,Employee_350,IT,Remote,True
+351,Employee_351,Legal,Southampton,True
+352,Employee_352,Marketing,Portsmouth,True
+353,Employee_353,Finance,Southampton,False
+354,Employee_354,IT,Remote,True
+355,Employee_355,IT,Southampton,True
+356,Employee_356,IT,Isle of Wight,True
+357,Employee_357,IT,London,True
+358,Employee_358,Marketing,London,True
+359,Employee_359,Finance,Isle of Wight,False
+360,Employee_360,IT,Remote,True
+361,Employee_361,HR,Portsmouth,True
+362,Employee_362,Marketing,Remote,True
+363,Employee_363,Finance,London,True
+364,Employee_364,Legal,London,False
+365,Employee_365,HR,Portsmouth,True
+366,Employee_366,IT,Southampton,False
+367,Employee_367,Legal,Southampton,True
+368,Employee_368,Operations,Remote,False
+369,Employee_369,Finance,London,False
+370,Employee_370,HR,Remote,False
+371,Employee_371,Legal,London,True
+372,Employee_372,HR,Isle of Wight,True
+373,Employee_373,Marketing,Portsmouth,False
+374,Employee_374,Marketing,Portsmouth,False
+375,Employee_375,Legal,Remote,False
+376,Employee_376,Finance,Isle of Wight,True
+377,Employee_377,Operations,London,False
+378,Employee_378,Operations,Remote,True
+379,Employee_379,IT,Southampton,False
+380,Employee_380,HR,Remote,True
+381,Employee_381,IT,Remote,False
+382,Employee_382,Legal,London,False
+383,Employee_383,IT,Southampton,True
+384,Employee_384,Operations,Portsmouth,True
+385,Employee_385,IT,London,False
+386,Employee_386,Marketing,Isle of Wight,True
+387,Employee_387,Sales,Southampton,False
+388,Employee_388,Sales,Southampton,False
+389,Employee_389,Operations,London,True
+390,Employee_390,Operations,Southampton,False
+391,Employee_391,Finance,Remote,False
+392,Employee_392,Sales,London,False
+393,Employee_393,Sales,London,True
+394,Employee_394,Legal,Portsmouth,True
+395,Employee_395,Sales,Portsmouth,True
+396,Employee_396,Finance,London,False
+397,Employee_397,Legal,Isle of Wight,False
+398,Employee_398,HR,Remote,False
+399,Employee_399,Marketing,Portsmouth,True
+400,Employee_400,Finance,Isle of Wight,False
+401,Employee_401,Legal,Remote,False
+402,Employee_402,IT,Portsmouth,True
+403,Employee_403,Marketing,Portsmouth,True
+404,Employee_404,Marketing,Southampton,True
+405,Employee_405,Sales,Isle of Wight,False
+406,Employee_406,HR,Southampton,False
+407,Employee_407,Marketing,Southampton,False
+408,Employee_408,Finance,Southampton,False
+409,Employee_409,Marketing,Remote,False
+410,Employee_410,Marketing,Southampton,False
+411,Employee_411,Marketing,Remote,True
+412,Employee_412,IT,London,False
+413,Employee_413,IT,Portsmouth,False
+414,Employee_414,Sales,Southampton,False
+415,Employee_415,Operations,London,True
+416,Employee_416,Finance,Portsmouth,True
+417,Employee_417,Operations,Portsmouth,True
+418,Employee_418,Finance,London,False
+419,Employee_419,HR,Portsmouth,False
+420,Employee_420,Operations,London,True
+421,Employee_421,Sales,Portsmouth,False
+422,Employee_422,Marketing,Remote,True
+423,Employee_423,Legal,Portsmouth,True
+424,Employee_424,Finance,Isle of Wight,False
+425,Employee_425,Finance,Isle of Wight,True
+426,Employee_426,Marketing,Portsmouth,True
+427,Employee_427,Finance,Portsmouth,True
+428,Employee_428,Operations,Southampton,False
+429,Employee_429,Operations,London,False
+430,Employee_430,Sales,Southampton,True
+431,Employee_431,Finance,Remote,True
+432,Employee_432,Marketing,Isle of Wight,False
+433,Employee_433,Sales,Remote,False
+434,Employee_434,HR,London,True
+435,Employee_435,Legal,London,True
+436,Employee_436,Legal,Portsmouth,False
+437,Employee_437,Marketing,Isle of Wight,True
+438,Employee_438,Sales,Portsmouth,False
+439,Employee_439,Finance,Isle of Wight,True
+440,Employee_440,Marketing,Remote,False
+441,Employee_441,HR,Isle of Wight,False
+442,Employee_442,Finance,Remote,False
+443,Employee_443,Sales,Isle of Wight,True
+444,Employee_444,Legal,Remote,True
+445,Employee_445,Marketing,Isle of Wight,False
+446,Employee_446,Operations,Portsmouth,True
+447,Employee_447,IT,Portsmouth,True
+448,Employee_448,Operations,Isle of Wight,False
+449,Employee_449,Finance,Remote,True
+450,Employee_450,Legal,Southampton,False
+451,Employee_451,Sales,Southampton,True
+452,Employee_452,Legal,Remote,True
+453,Employee_453,Sales,Isle of Wight,True
+454,Employee_454,Sales,London,True
+455,Employee_455,Legal,London,False
+456,Employee_456,Marketing,London,False
+457,Employee_457,Sales,Southampton,False
+458,Employee_458,HR,Remote,False
+459,Employee_459,Operations,Isle of Wight,False
+460,Employee_460,IT,Southampton,False
+461,Employee_461,Legal,Portsmouth,False
+462,Employee_462,Marketing,London,False
+463,Employee_463,HR,Isle of Wight,False
+464,Employee_464,Finance,London,False
+465,Employee_465,HR,Portsmouth,False
+466,Employee_466,Marketing,Portsmouth,True
+467,Employee_467,Marketing,Isle of Wight,False
+468,Employee_468,Legal,Portsmouth,True
+469,Employee_469,Sales,London,False
+470,Employee_470,Sales,Southampton,True
+471,Employee_471,Sales,Southampton,True
+472,Employee_472,HR,Remote,False
+473,Employee_473,Legal,London,False
+474,Employee_474,Finance,Portsmouth,True
+475,Employee_475,Sales,Isle of Wight,True
+476,Employee_476,Operations,Portsmouth,False
+477,Employee_477,Legal,Remote,False
+478,Employee_478,IT,Southampton,True
+479,Employee_479,Sales,Isle of Wight,False
+480,Employee_480,IT,London,True
+481,Employee_481,Marketing,Portsmouth,True
+482,Employee_482,Sales,London,False
+483,Employee_483,Finance,Isle of Wight,False
+484,Employee_484,Legal,Portsmouth,False
+485,Employee_485,Finance,London,True
+486,Employee_486,Operations,London,True
+487,Employee_487,HR,Portsmouth,True
+488,Employee_488,Legal,Southampton,False
+489,Employee_489,Operations,Southampton,False
+490,Employee_490,Sales,Isle of Wight,True
+491,Employee_491,Sales,Remote,False
+492,Employee_492,Marketing,Remote,True
+493,Employee_493,Operations,Isle of Wight,False
+494,Employee_494,Sales,Southampton,False
+495,Employee_495,Operations,London,False
+496,Employee_496,Finance,Portsmouth,False
+497,Employee_497,IT,Portsmouth,True
+498,Employee_498,Legal,London,True
+499,Employee_499,Finance,London,True
+500,Employee_500,Operations,Isle of Wight,False
+501,Employee_501,Operations,Southampton,True
+502,Employee_502,Sales,London,True
+503,Employee_503,Sales,Southampton,False
+504,Employee_504,Operations,Portsmouth,False
+505,Employee_505,HR,Portsmouth,True
+506,Employee_506,HR,Southampton,True
+507,Employee_507,Operations,Portsmouth,False
+508,Employee_508,Sales,Remote,True
+509,Employee_509,HR,London,True
+510,Employee_510,HR,Portsmouth,True
+511,Employee_511,HR,Isle of Wight,True
+512,Employee_512,Finance,Southampton,False
+513,Employee_513,Finance,London,True
+514,Employee_514,Sales,Southampton,False
+515,Employee_515,IT,Southampton,False
+516,Employee_516,Legal,Portsmouth,True
+517,Employee_517,HR,Portsmouth,True
+518,Employee_518,Legal,Southampton,True
+519,Employee_519,Marketing,Southampton,True
+520,Employee_520,Operations,Southampton,True
+521,Employee_521,Legal,Remote,True
+522,Employee_522,HR,Isle of Wight,True
+523,Employee_523,Finance,Portsmouth,True
+524,Employee_524,HR,Isle of Wight,True
+525,Employee_525,Operations,Southampton,True
+526,Employee_526,Marketing,London,True
+527,Employee_527,Legal,Remote,True
+528,Employee_528,Finance,Isle of Wight,False
+529,Employee_529,Legal,Portsmouth,True
+530,Employee_530,IT,Isle of Wight,False
+531,Employee_531,Operations,London,False
+532,Employee_532,Sales,Southampton,True
+533,Employee_533,Sales,Southampton,False
+534,Employee_534,HR,Southampton,False
+535,Employee_535,Operations,London,True
+536,Employee_536,Finance,Southampton,False
+537,Employee_537,Sales,Isle of Wight,False
+538,Employee_538,IT,Portsmouth,True
+539,Employee_539,Finance,Remote,False
+540,Employee_540,Legal,Southampton,True
+541,Employee_541,Finance,Remote,False
+542,Employee_542,IT,Portsmouth,False
+543,Employee_543,IT,Portsmouth,True
+544,Employee_544,Marketing,Portsmouth,False
+545,Employee_545,Legal,Remote,False
+546,Employee_546,IT,Southampton,False
+547,Employee_547,HR,Isle of Wight,False
+548,Employee_548,Legal,Portsmouth,True
+549,Employee_549,Marketing,Isle of Wight,True
+550,Employee_550,Legal,Southampton,False
+551,Employee_551,Marketing,London,False
+552,Employee_552,Sales,Portsmouth,True
+553,Employee_553,IT,Isle of Wight,True
+554,Employee_554,Sales,Portsmouth,True
+555,Employee_555,Sales,Remote,True
+556,Employee_556,Operations,Portsmouth,True
+557,Employee_557,Sales,Portsmouth,False
+558,Employee_558,Marketing,Southampton,False
+559,Employee_559,Operations,Remote,True
+560,Employee_560,Legal,Remote,True
+561,Employee_561,HR,Remote,True
+562,Employee_562,Sales,Portsmouth,False
+563,Employee_563,Sales,Isle of Wight,False
+564,Employee_564,HR,Southampton,True
+565,Employee_565,Marketing,Southampton,False
+566,Employee_566,Finance,Remote,True
+567,Employee_567,HR,Remote,True
+568,Employee_568,Legal,Portsmouth,False
+569,Employee_569,Sales,Portsmouth,False
+570,Employee_570,Operations,Remote,True
+571,Employee_571,Marketing,Remote,True
+572,Employee_572,Finance,London,False
+573,Employee_573,HR,Portsmouth,False
+574,Employee_574,Legal,London,True
+575,Employee_575,IT,Isle of Wight,True
+576,Employee_576,Legal,Isle of Wight,True
+577,Employee_577,HR,London,True
+578,Employee_578,Finance,Portsmouth,False
+579,Employee_579,IT,Portsmouth,False
+580,Employee_580,Legal,Portsmouth,False
+581,Employee_581,IT,Remote,True
+582,Employee_582,HR,Remote,True
+583,Employee_583,Finance,Remote,False
+584,Employee_584,HR,London,False
+585,Employee_585,IT,London,False
+586,Employee_586,Sales,Remote,True
+587,Employee_587,Operations,Isle of Wight,True
+588,Employee_588,Legal,Remote,True
+589,Employee_589,Operations,Remote,False
+590,Employee_590,Legal,Southampton,True
+591,Employee_591,Finance,London,False
+592,Employee_592,Marketing,Portsmouth,True
+593,Employee_593,Sales,London,False
+594,Employee_594,HR,Southampton,False
+595,Employee_595,Legal,Isle of Wight,False
+596,Employee_596,HR,Isle of Wight,True
+597,Employee_597,Sales,Southampton,False
+598,Employee_598,HR,London,True
+599,Employee_599,Operations,Isle of Wight,False
+600,Employee_600,HR,Southampton,True
+601,Employee_601,HR,Isle of Wight,True
+602,Employee_602,Sales,Remote,False
+603,Employee_603,Operations,Southampton,True
+604,Employee_604,Operations,London,True
+605,Employee_605,IT,Southampton,True
+606,Employee_606,Legal,Southampton,False
+607,Employee_607,Marketing,Southampton,False
+608,Employee_608,Finance,Portsmouth,True
+609,Employee_609,Legal,Isle of Wight,False
+610,Employee_610,Sales,Remote,False
+611,Employee_611,Finance,Southampton,True
+612,Employee_612,Legal,Isle of Wight,False
+613,Employee_613,HR,Portsmouth,False
+614,Employee_614,IT,Isle of Wight,False
+615,Employee_615,Operations,Remote,True
+616,Employee_616,Sales,Portsmouth,True
+617,Employee_617,Legal,Portsmouth,False
+618,Employee_618,Finance,Isle of Wight,False
+619,Employee_619,Sales,Remote,False
+620,Employee_620,Operations,Isle of Wight,True
+621,Employee_621,Operations,London,True
+622,Employee_622,Legal,Southampton,False
+623,Employee_623,Operations,Southampton,True
+624,Employee_624,Sales,Remote,True
+625,Employee_625,Finance,Southampton,True
+626,Employee_626,Finance,Isle of Wight,False
+627,Employee_627,HR,Isle of Wight,False
+628,Employee_628,Legal,Portsmouth,False
+629,Employee_629,Marketing,Isle of Wight,False
+630,Employee_630,IT,Portsmouth,False
+631,Employee_631,HR,Portsmouth,True
+632,Employee_632,Legal,London,False
+633,Employee_633,Sales,Portsmouth,False
+634,Employee_634,Legal,Remote,True
+635,Employee_635,Operations,Southampton,True
+636,Employee_636,Finance,London,False
+637,Employee_637,Finance,Isle of Wight,False
+638,Employee_638,IT,Isle of Wight,True
+639,Employee_639,IT,Isle of Wight,True
+640,Employee_640,Marketing,Portsmouth,False
+641,Employee_641,Sales,London,False
+642,Employee_642,HR,Remote,False
+643,Employee_643,IT,Remote,True
+644,Employee_644,Marketing,Isle of Wight,False
+645,Employee_645,Legal,Remote,False
+646,Employee_646,Operations,Southampton,True
+647,Employee_647,IT,Southampton,True
+648,Employee_648,Sales,Portsmouth,True
+649,Employee_649,Legal,Portsmouth,True
+650,Employee_650,Marketing,Southampton,False
+651,Employee_651,Marketing,Portsmouth,False
+652,Employee_652,Legal,London,True
+653,Employee_653,HR,London,False
+654,Employee_654,Legal,London,False
+655,Employee_655,Legal,London,False
+656,Employee_656,Sales,Southampton,False
+657,Employee_657,Sales,Portsmouth,True
+658,Employee_658,HR,Isle of Wight,True
+659,Employee_659,HR,London,True
+660,Employee_660,Operations,Southampton,False
+661,Employee_661,Legal,Portsmouth,True
+662,Employee_662,IT,London,False
+663,Employee_663,Finance,Remote,False
+664,Employee_664,Legal,Portsmouth,True
+665,Employee_665,Marketing,London,False
+666,Employee_666,Finance,Remote,False
+667,Employee_667,HR,London,True
+668,Employee_668,HR,London,False
+669,Employee_669,Sales,Portsmouth,True
+670,Employee_670,IT,Portsmouth,False
+671,Employee_671,Finance,Portsmouth,False
+672,Employee_672,Sales,Southampton,False
+673,Employee_673,Marketing,London,True
+674,Employee_674,Legal,Remote,False
+675,Employee_675,Marketing,London,False
+676,Employee_676,HR,Remote,False
+677,Employee_677,Finance,Isle of Wight,True
+678,Employee_678,Operations,London,True
+679,Employee_679,Finance,London,False
+680,Employee_680,IT,London,False
+681,Employee_681,Marketing,Isle of Wight,False
+682,Employee_682,Sales,Portsmouth,True
+683,Employee_683,Marketing,London,False
+684,Employee_684,Sales,Southampton,True
+685,Employee_685,HR,London,True
+686,Employee_686,Finance,London,False
+687,Employee_687,Finance,Southampton,True
+688,Employee_688,Legal,Portsmouth,True
+689,Employee_689,Finance,Isle of Wight,False
+690,Employee_690,Marketing,Portsmouth,False
+691,Employee_691,Sales,Remote,False
+692,Employee_692,Finance,London,True
+693,Employee_693,HR,Southampton,True
+694,Employee_694,HR,Remote,True
+695,Employee_695,HR,Portsmouth,False
+696,Employee_696,HR,London,True
+697,Employee_697,HR,Isle of Wight,False
+698,Employee_698,IT,Remote,True
+699,Employee_699,Operations,Portsmouth,False
+700,Employee_700,HR,Isle of Wight,False
+701,Employee_701,IT,Portsmouth,False
+702,Employee_702,Legal,Southampton,True
+703,Employee_703,HR,Isle of Wight,True
+704,Employee_704,Sales,Southampton,False
+705,Employee_705,Finance,Portsmouth,False
+706,Employee_706,Operations,Portsmouth,True
+707,Employee_707,Operations,Isle of Wight,True
+708,Employee_708,Legal,Isle of Wight,True
+709,Employee_709,IT,Isle of Wight,False
+710,Employee_710,IT,Isle of Wight,False
+711,Employee_711,Finance,Isle of Wight,False
+712,Employee_712,Sales,Portsmouth,False
+713,Employee_713,HR,London,True
+714,Employee_714,Sales,Remote,True
+715,Employee_715,HR,Portsmouth,False
+716,Employee_716,Legal,Portsmouth,True
+717,Employee_717,Legal,Remote,True
+718,Employee_718,HR,Portsmouth,True
+719,Employee_719,IT,Portsmouth,False
+720,Employee_720,Marketing,London,False
+721,Employee_721,Operations,Isle of Wight,True
+722,Employee_722,Operations,London,False
+723,Employee_723,IT,Isle of Wight,True
+724,Employee_724,IT,London,True
+725,Employee_725,Operations,Isle of Wight,False
+726,Employee_726,Legal,Southampton,False
+727,Employee_727,Operations,Isle of Wight,True
+728,Employee_728,IT,London,True
+729,Employee_729,Sales,Portsmouth,True
+730,Employee_730,IT,London,True
+731,Employee_731,Sales,Isle of Wight,False
+732,Employee_732,Operations,Isle of Wight,False
+733,Employee_733,Marketing,Remote,True
+734,Employee_734,IT,Remote,True
+735,Employee_735,IT,London,False
+736,Employee_736,Finance,Southampton,True
+737,Employee_737,Operations,Remote,True
+738,Employee_738,Sales,London,True
+739,Employee_739,Operations,Southampton,True
+740,Employee_740,Marketing,Isle of Wight,True
+741,Employee_741,Finance,Southampton,False
+742,Employee_742,HR,Portsmouth,False
+743,Employee_743,Finance,Southampton,True
+744,Employee_744,HR,Remote,True
+745,Employee_745,Legal,Remote,True
+746,Employee_746,Operations,London,False
+747,Employee_747,Sales,London,False
+748,Employee_748,IT,Remote,True
+749,Employee_749,Finance,Remote,False
+750,Employee_750,Finance,Isle of Wight,False
+751,Employee_751,Legal,Remote,True
+752,Employee_752,HR,Southampton,False
+753,Employee_753,Legal,Portsmouth,False
+754,Employee_754,Finance,Portsmouth,True
+755,Employee_755,HR,Remote,False
+756,Employee_756,Legal,Southampton,True
+757,Employee_757,HR,Isle of Wight,True
+758,Employee_758,Finance,Southampton,True
+759,Employee_759,Finance,Remote,False
+760,Employee_760,Legal,Isle of Wight,True
+761,Employee_761,Legal,Southampton,True
+762,Employee_762,Operations,Southampton,False
+763,Employee_763,Operations,Remote,False
+764,Employee_764,IT,Isle of Wight,True
+765,Employee_765,HR,Portsmouth,False
+766,Employee_766,Finance,Isle of Wight,True
+767,Employee_767,HR,Isle of Wight,True
+768,Employee_768,Sales,Portsmouth,False
+769,Employee_769,Marketing,Isle of Wight,True
+770,Employee_770,Operations,Southampton,False
+771,Employee_771,Finance,Isle of Wight,True
+772,Employee_772,Marketing,Remote,True
+773,Employee_773,Marketing,London,False
+774,Employee_774,IT,Southampton,True
+775,Employee_775,IT,London,True
+776,Employee_776,IT,London,False
+777,Employee_777,Finance,Isle of Wight,True
+778,Employee_778,Legal,London,False
+779,Employee_779,IT,Southampton,False
+780,Employee_780,Sales,Isle of Wight,False
+781,Employee_781,Legal,Isle of Wight,False
+782,Employee_782,Legal,Southampton,True
+783,Employee_783,Finance,Isle of Wight,True
+784,Employee_784,Finance,Portsmouth,False
+785,Employee_785,Marketing,Isle of Wight,True
+786,Employee_786,Finance,Portsmouth,False
+787,Employee_787,Legal,Isle of Wight,False
+788,Employee_788,IT,Southampton,True
+789,Employee_789,HR,London,True
+790,Employee_790,Marketing,Remote,False
+791,Employee_791,IT,Portsmouth,True
+792,Employee_792,Legal,London,False
+793,Employee_793,Finance,London,True
+794,Employee_794,Sales,Portsmouth,True
+795,Employee_795,Operations,Southampton,False
+796,Employee_796,IT,Remote,False
+797,Employee_797,Legal,Remote,True
+798,Employee_798,Operations,Portsmouth,True
+799,Employee_799,Finance,Portsmouth,True
+800,Employee_800,HR,London,True
+801,Employee_801,Legal,Portsmouth,True
+802,Employee_802,Operations,Portsmouth,False
+803,Employee_803,Finance,Remote,True
+804,Employee_804,Legal,Portsmouth,True
+805,Employee_805,Marketing,Remote,False
+806,Employee_806,IT,London,False
+807,Employee_807,Sales,Southampton,False
+808,Employee_808,Legal,Remote,True
+809,Employee_809,Finance,Southampton,True
+810,Employee_810,HR,London,False
+811,Employee_811,Operations,Portsmouth,True
+812,Employee_812,Marketing,London,False
+813,Employee_813,Operations,Southampton,True
+814,Employee_814,IT,Remote,False
+815,Employee_815,Operations,London,True
+816,Employee_816,HR,Isle of Wight,False
+817,Employee_817,IT,Remote,True
+818,Employee_818,Operations,Portsmouth,True
+819,Employee_819,Legal,London,False
+820,Employee_820,Sales,Portsmouth,False
+821,Employee_821,Operations,Portsmouth,False
+822,Employee_822,Marketing,London,False
+823,Employee_823,Legal,Southampton,False
+824,Employee_824,HR,London,True
+825,Employee_825,Legal,Remote,True
+826,Employee_826,Marketing,Remote,False
+827,Employee_827,IT,Remote,False
+828,Employee_828,Operations,Southampton,False
+829,Employee_829,IT,Isle of Wight,True
+830,Employee_830,Operations,London,True
+831,Employee_831,Finance,Isle of Wight,False
+832,Employee_832,HR,Remote,True
+833,Employee_833,Marketing,Portsmouth,False
+834,Employee_834,HR,Isle of Wight,False
+835,Employee_835,Sales,Southampton,True
+836,Employee_836,Legal,Isle of Wight,True
+837,Employee_837,IT,London,False
+838,Employee_838,Marketing,Isle of Wight,True
+839,Employee_839,Sales,Portsmouth,False
+840,Employee_840,Legal,Isle of Wight,False
+841,Employee_841,IT,Southampton,True
+842,Employee_842,HR,Southampton,True
+843,Employee_843,Marketing,London,False
+844,Employee_844,Operations,Isle of Wight,False
+845,Employee_845,Legal,Remote,True
+846,Employee_846,Legal,London,False
+847,Employee_847,Legal,Portsmouth,False
+848,Employee_848,Marketing,Isle of Wight,True
+849,Employee_849,Marketing,London,False
+850,Employee_850,Legal,Remote,False
+851,Employee_851,IT,Portsmouth,False
+852,Employee_852,IT,Southampton,False
+853,Employee_853,HR,London,False
+854,Employee_854,Finance,Isle of Wight,True
+855,Employee_855,Finance,Southampton,False
+856,Employee_856,Finance,Isle of Wight,True
+857,Employee_857,IT,Portsmouth,True
+858,Employee_858,Sales,Southampton,True
+859,Employee_859,Sales,Southampton,True
+860,Employee_860,Marketing,Isle of Wight,False
+861,Employee_861,IT,London,False
+862,Employee_862,IT,London,False
+863,Employee_863,Sales,Portsmouth,False
+864,Employee_864,HR,Remote,True
+865,Employee_865,Sales,Portsmouth,True
+866,Employee_866,IT,London,True
+867,Employee_867,Operations,Portsmouth,True
+868,Employee_868,IT,Isle of Wight,False
+869,Employee_869,Marketing,Isle of Wight,True
+870,Employee_870,Legal,Portsmouth,False
+871,Employee_871,Operations,Remote,False
+872,Employee_872,Sales,Remote,False
+873,Employee_873,Sales,Portsmouth,True
+874,Employee_874,Operations,Remote,False
+875,Employee_875,Marketing,Isle of Wight,True
+876,Employee_876,Operations,Remote,True
+877,Employee_877,HR,Remote,True
+878,Employee_878,Legal,Isle of Wight,False
+879,Employee_879,Sales,Southampton,False
+880,Employee_880,Legal,Southampton,True
+881,Employee_881,Sales,Portsmouth,True
+882,Employee_882,Legal,Remote,False
+883,Employee_883,Operations,Southampton,False
+884,Employee_884,HR,Isle of Wight,True
+885,Employee_885,Marketing,Isle of Wight,False
+886,Employee_886,IT,London,True
+887,Employee_887,Operations,Southampton,False
+888,Employee_888,Operations,Southampton,False
+889,Employee_889,Operations,Portsmouth,False
+890,Employee_890,IT,London,False
+891,Employee_891,Finance,London,True
+892,Employee_892,Legal,London,False
+893,Employee_893,IT,Southampton,True
+894,Employee_894,HR,Remote,False
+895,Employee_895,Legal,Isle of Wight,True
+896,Employee_896,Sales,London,False
+897,Employee_897,Legal,Remote,False
+898,Employee_898,Legal,Portsmouth,True
+899,Employee_899,Sales,Remote,False
+900,Employee_900,HR,Southampton,False
+901,Employee_901,Operations,Southampton,True
+902,Employee_902,Marketing,London,True
+903,Employee_903,Operations,Southampton,False
+904,Employee_904,Legal,Remote,True
+905,Employee_905,HR,Southampton,False
+906,Employee_906,HR,London,True
+907,Employee_907,HR,Portsmouth,False
+908,Employee_908,HR,Isle of Wight,False
+909,Employee_909,HR,Southampton,False
+910,Employee_910,Legal,Isle of Wight,False
+911,Employee_911,Sales,Isle of Wight,True
+912,Employee_912,Legal,London,False
+913,Employee_913,IT,Isle of Wight,False
+914,Employee_914,Marketing,Remote,True
+915,Employee_915,Marketing,Isle of Wight,True
+916,Employee_916,Sales,London,True
+917,Employee_917,Sales,Isle of Wight,False
+918,Employee_918,Operations,Isle of Wight,True
+919,Employee_919,Marketing,Isle of Wight,False
+920,Employee_920,HR,London,True
+921,Employee_921,Operations,Remote,False
+922,Employee_922,Operations,London,True
+923,Employee_923,HR,Southampton,True
+924,Employee_924,Marketing,Remote,False
+925,Employee_925,Marketing,Isle of Wight,True
+926,Employee_926,Legal,Southampton,False
+927,Employee_927,Finance,Isle of Wight,False
+928,Employee_928,HR,London,False
+929,Employee_929,Operations,London,True
+930,Employee_930,Legal,Portsmouth,True
+931,Employee_931,Operations,Portsmouth,False
+932,Employee_932,Operations,Southampton,False
+933,Employee_933,Finance,Isle of Wight,False
+934,Employee_934,Finance,Southampton,False
+935,Employee_935,HR,Isle of Wight,True
+936,Employee_936,Sales,Remote,False
+937,Employee_937,IT,Portsmouth,False
+938,Employee_938,Operations,Isle of Wight,True
+939,Employee_939,Legal,Isle of Wight,False
+940,Employee_940,HR,Isle of Wight,True
+941,Employee_941,Operations,Southampton,False
+942,Employee_942,Finance,Portsmouth,True
+943,Employee_943,Legal,Portsmouth,True
+944,Employee_944,Sales,Remote,True
+945,Employee_945,Sales,Portsmouth,False
+946,Employee_946,Finance,Remote,True
+947,Employee_947,HR,Isle of Wight,False
+948,Employee_948,Marketing,London,False
+949,Employee_949,Operations,Isle of Wight,False
+950,Employee_950,IT,Southampton,True
+951,Employee_951,IT,Remote,True
+952,Employee_952,Sales,Southampton,False
+953,Employee_953,HR,London,False
+954,Employee_954,IT,Remote,True
+955,Employee_955,Sales,London,True
+956,Employee_956,Legal,Portsmouth,True
+957,Employee_957,IT,London,False
+958,Employee_958,HR,Isle of Wight,True
+959,Employee_959,Marketing,London,True
+960,Employee_960,Legal,London,False
+961,Employee_961,Operations,Remote,False
+962,Employee_962,Legal,London,False
+963,Employee_963,Sales,Remote,True
+964,Employee_964,Marketing,Portsmouth,False
+965,Employee_965,IT,London,False
+966,Employee_966,Sales,Portsmouth,False
+967,Employee_967,Sales,London,False
+968,Employee_968,Marketing,London,True
+969,Employee_969,Operations,Portsmouth,True
+970,Employee_970,Operations,Remote,False
+971,Employee_971,Legal,Southampton,True
+972,Employee_972,Legal,Portsmouth,True
+973,Employee_973,IT,London,True
+974,Employee_974,Legal,Remote,False
+975,Employee_975,Sales,Portsmouth,True
+976,Employee_976,IT,London,False
+977,Employee_977,Legal,Isle of Wight,False
+978,Employee_978,Operations,London,True
+979,Employee_979,HR,Isle of Wight,True
+980,Employee_980,Marketing,London,True
+981,Employee_981,Marketing,London,False
+982,Employee_982,Marketing,Remote,True
+983,Employee_983,HR,Isle of Wight,False
+984,Employee_984,Legal,Portsmouth,True
+985,Employee_985,Finance,Portsmouth,False
+986,Employee_986,Marketing,Southampton,True
+987,Employee_987,Finance,London,False
+988,Employee_988,HR,Remote,False
+989,Employee_989,IT,London,False
+990,Employee_990,IT,Southampton,True
+991,Employee_991,IT,Southampton,False
+992,Employee_992,Operations,Remote,False
+993,Employee_993,HR,Southampton,True
+994,Employee_994,IT,Portsmouth,False
+995,Employee_995,Marketing,Portsmouth,True
+996,Employee_996,HR,Remote,False
+997,Employee_997,Legal,Remote,True
+998,Employee_998,Operations,Remote,True
+999,Employee_999,Legal,London,True
+1000,Employee_1000,Sales,Portsmouth,True
