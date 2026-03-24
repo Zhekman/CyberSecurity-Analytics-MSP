@@ -1,6 +1,0 @@
--- SQLite
-
-SELECT * FROM View_TotalArtistSales
-WHERE TotalArtistSales >25
-order by TotalArtistSales desc
-
