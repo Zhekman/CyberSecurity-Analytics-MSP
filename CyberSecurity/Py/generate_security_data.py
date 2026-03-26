@@ -14,12 +14,40 @@ severities = ['Low', 'Medium', 'High', 'Critical']
 
 print(f"Починаю генерацію {num_events} записів для {num_employees} працівників...")
 
+# Списки для реалістичних імен
+first_names = ['James', 'Mary', 'Robert', 'Patricia', 'John', 'Jennifer', 'Michael', 'Linda', 'William', 'Elizabeth', 
+               'David', 'Barbara', 'Richard', 'Susan', 'Joseph', 'Jessica', 'Thomas', 'Sarah', 'Christopher', 'Karen', 
+               'Charles', 'Nancy', 'Daniel', 'Lisa', 'Matthew', 'Betty', 'Anthony', 'Margaret', 'Mark', 'Sandra', 
+               'Donald', 'Ashley', 'Steven', 'Kimberly', 'Paul', 'Emily', 'Andrew', 'Donna', 'Joshua', 'Michelle']
+
+last_names = ['Smith', 'Johnson', 'Williams', 'Brown', 'Jones', 'Garcia', 'Miller', 'Davis', 'Rodriguez', 'Martinez', 
+              'Hernandez', 'Lopez', 'Gonzalez', 'Wilson', 'Anderson', 'Thomas', 'Taylor', 'Moore', 'Jackson', 'Martin', 
+              'Lee', 'Perez', 'Thompson', 'White', 'Harris', 'Sanchez', 'Clark', 'Ramirez', 'Lewis', 'Robinson', 
+              'Walker', 'Young', 'Allen', 'King', 'Wright', 'Scott', 'Torres', 'Nguyen', 'Hill', 'Flores', 
+              'Green', 'Adams', 'Nelson', 'Baker', 'Hall', 'Rivera', 'Campbell', 'Mitchell', 'Carter', 'Roberts']
+
 # 1. Employees
 employees = []
+used_names = set()
+
 for i in range(1, num_employees + 1):
+    while True:
+        fn = random.choice(first_names)
+        ln = random.choice(last_names)
+        short_name = f"{fn}_{ln[:3]}"
+        
+        if short_name not in used_names:
+            used_names.add(short_name)
+            break
+        else:
+            # Якщо комбінація вже є, додаємо цифру
+            short_name = f"{fn}_{ln[:3]}_{i}"
+            used_names.add(short_name)
+            break
+
     employees.append({
         'EmployeeID': i,
-        'FullName': f'Employee_{i}',
+        'FullName': short_name,
         'Department': random.choice(departments),
         'Location': random.choice(locations),
         'IsRemote': random.choice([True, False])
