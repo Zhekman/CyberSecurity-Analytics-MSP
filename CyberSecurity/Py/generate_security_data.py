@@ -64,13 +64,23 @@ for i in range(1, num_events + 1):
                                            hours=random.randint(0, 23),
                                            minutes=random.randint(0, 59))
     
+    # Більш реалістичний розподіл серйозності подій
+    severity = random.choices(severities, weights=[60, 25, 10, 5])[0]
+    
+    # Логіка блокування: критичні події складніше заблокувати автоматично
+    blocked_weights = [95, 5] # Default: 95% blocked
+    if severity == 'Critical':
+        blocked_weights = [70, 30]
+    elif severity == 'High':
+        blocked_weights = [85, 15]
+
     events.append({
         'EventID': 100000 + i,
         'DeviceID': d_id,
         'EventType': e_type,
-        'EventSeverity': random.choice(severities),
+        'EventSeverity': severity,
         'EventTimestamp': timestamp.strftime('%Y-%m-%d %H:%M:%S'),
-        'IsBlocked': random.choices([True, False], weights=[92, 8])[0]
+        'IsBlocked': random.choices([True, False], weights=blocked_weights)[0]
     })
     
     if i % 10000 == 0:
